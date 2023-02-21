@@ -1,0 +1,13 @@
+AIzaSyDvdFvEh-K-At7r_UuhrQWFfz7GrPyQsIE
+
+https://developers.google.com/custom-search/v1/overview
+
+https://cse.google.com/cse/create/new
+
+
+Search engine ID
+c23db4c1f264e436a
+
+
+
+https://cse.google.com/cse?cx=c23db4c1f264e436a
